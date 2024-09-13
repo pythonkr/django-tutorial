@@ -4,11 +4,11 @@ speakers:
   - 황정식
 categories:
   - 웹 프레임워크 (Web Framework)
-  - 20min
+  - 5 hours
   - 초급
 ---
 
-- 발표 길이: 20분
+- 발표 길이: 5시간
 
 - 발표 자료: [Link](https://drive.google.com/file/d/1NitCsSD-AcLj7v9wMiztY8bd98IZZjYR/view)
 
