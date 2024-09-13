@@ -5,7 +5,7 @@ description: >-
   보안과 개발 사이에서 고민하다가 핀테크와 모빌리티의 백엔드 엔지니어를 경험하고 현재는 SecondSyndrome에서 백엔드 엔지니어로 재직하며 다양한 경험을 하고 있습니다.
   제가 경험한 여러가지 경험을 여러분과 나누고 싶습니다!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://pythonkr.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://pythonkr.github.io/django-tutorial/" # the base hostname & protocol for your site, e.g. https://example.com
 
 # Build settings
 markdown: kramdown
@@ -63,9 +63,9 @@ conference:
   navigation:
     links:
       - name: 발표 시간표 (Schedule)
-        relative_url: /program/
+        relative_url: /django-tutorial/program/
       - name: 발표 목록
-        relative_url: /talks/
+        relative_url: /django-tutorial/talks/
       - name: CoC
         absolute_url: https://2023.pycon.kr/coc/purpose
 
@@ -76,11 +76,11 @@ conference:
     show_firstname: true
 
   location:
-    url: "/location"
+    url: "/django-tutorial/location"
     map: true
 
   program:
-    url: "/program"
+    url: "/django-tutorial/program"
     time_steps: 15
     show_alltimes: true
 
