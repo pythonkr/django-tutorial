@@ -34,6 +34,9 @@ collections:
   speakers:
     output: true
     permalink: /:collection/:title/
+  rooms:
+    output: true
+    permalink: /:collection/:title/
 
 defaults:
   - scope:
@@ -46,6 +49,11 @@ defaults:
       type: speakers
     values:
       layout: speaker
+  - scope:
+      path: ""
+      type: rooms
+    values:
+      layout: room
 
 # Theme default values
 conference:
