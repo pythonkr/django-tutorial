@@ -1,7 +1,9 @@
-title: PyWeb Symposium 2024
-preposition: ''
+title: Django Tutorial
+preposition: ""
 description: >-
-  파이썬으로 만드는 모든 웹 서비스 기술을 다루는 파이 웹 심포지움에 오신 것을 환영합니다
+  안녕하세요. Django REST Framework와 약간의 Kotlin을 겸하여 백엔드 엔지니어로서 커리어를 이어나가고 있는 6년차 개발자 황정식입니다.
+  보안과 개발 사이에서 고민하다가 핀테크와 모빌리티의 백엔드 엔지니어를 경험하고 현재는 SecondSyndrome에서 백엔드 엔지니어로 재직하며 다양한 경험을 하고 있습니다.
+  제가 경험한 여러가지 경험을 여러분과 나누고 싶습니다!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pyweb.python.or.kr" # the base hostname & protocol for your site, e.g. https://example.com
 
@@ -23,7 +25,6 @@ exclude:
   - screenshot.png
   - jekyll-theme-conference.gemspec
   - purgecss.config.js
-  - _config.example.yml
 
 # Collections and their defaults
 collections:
@@ -75,11 +76,11 @@ conference:
     show_firstname: true
 
   location:
-    url: '/location'
+    url: "/location"
     map: true
 
   program:
-    url: '/program'
+    url: "/program"
     time_steps: 15
     show_alltimes: true
 
@@ -88,20 +89,6 @@ conference:
     main_categories:
       - name: 웹 프레임워크 (Web Framework)
         color: danger
-      - name: 설계 (Architecture)
-        color: info
-      - name: 배포 (CI / CD) (Deploy)
-        color: dark
-      - name: 웹서비스 운영 (Operating web service)
-        color: success
-      - name: 클라우드 (Cloud)
-        color: dark
-      - name: 파이썬 웹 개발자 커리어
-        color: info
-      - name: 후원사 (Sponsor)
-        color: warning
-      
 
     # Hide icons on talk overview page
     hide_icons: false
-    
