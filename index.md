@@ -17,6 +17,6 @@ Django REST Framework를 활용하여 간단한 RESTful API를 개발해보는 �
 장소 : 한국고등교육재단 3층 위시켓 (역삼역 8번 출구에서 5분)
 
 
-<a class="button" href="/program/"> 발표 시간표 확인하기 </a>
+<a class="button" href="/django-tutorial/program/"> 발표 시간표 확인하기 </a>
 
 <a class="button" href="https://event-us.kr/pythonkorea/event/79692"> 참가 신청 </a>
