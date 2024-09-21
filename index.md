@@ -16,6 +16,7 @@ Django REST Framework를 활용하여 간단한 RESTful API를 개발해보는 �
 일시 : 2024년 10월 5일 (토) 13:00 ~ 18:00<br>
 장소 : 한국고등교육재단 3층 위시켓 (역삼역 8번 출구에서 5분)
 
+문의하기: <a href="mailto:seminar@python.or.kr">seminar@python.or.kr</a>
 
 <a class="button" href="/django-tutorial/program/"> 발표 시간표 확인하기 </a>
 
