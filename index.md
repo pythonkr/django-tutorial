@@ -20,4 +20,4 @@ Django REST Framework를 활용하여 간단한 RESTful API를 개발해보는 �
 
 <a class="button" href="/django-tutorial/program/"> 발표 시간표 확인하기 </a>
 
-<a class="button" href="https://event-us.kr/pythonkorea/event/79692"> 참가 신청 </a>
+<a class="button" href="https://event-us.kr/pythonkorea/event/91772"> 참가 신청 </a>
